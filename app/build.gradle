@@ -69,7 +69,7 @@ dependencies {
 }
 
 pitest {
-    targetClasses = ['nz.co.fendustries.playground.logic.*']
+    targetClasses = ['nz.co.fendustries.playground.*']
     avoidCallsTo = ['kotlin.jvm.internal']
     pitestVersion = piTestVersion
     mutationThreshold = minMutationThreshold
