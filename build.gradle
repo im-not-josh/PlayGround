@@ -2,7 +2,7 @@
 
 buildscript {
     ext.piTestPlugin = "0.2.9"
-    ext.piTestVersion = '1.7.5'
+    ext.piTestVersion = '1.9.4'
     ext.minMutationThreshold = 80
 
     repositories {
